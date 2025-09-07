@@ -45,7 +45,7 @@
 
 #### Початкова таблиця
 
-![Table](./assets/table.jpeg)
+<img width="857" height="254" alt="image" src="https://github.com/user-attachments/assets/9f7986df-b31c-4c02-9ccb-c347490004ad" />
 
 ## Критерії прийняття
 
@@ -69,6 +69,24 @@
 
 - 💡 Результат має бути у вигляді скриншота розгорнутої схеми у Workbench.
 
-![Result](./assets/result.png)
+<img width="674" height="1348" alt="image" src="https://github.com/user-attachments/assets/a447f71c-ed79-43b1-b601-89b9111055a0" />
 
 #### Результат виконаного ДЗ
+
+<img width="993" height="524" alt="01-eer-diagram" src="https://github.com/user-attachments/assets/924b97d2-c9c5-4ae0-ba5e-6ed566441b8b" />
+
+<img width="1103" height="1450" alt="02-sql-script" src="https://github.com/user-attachments/assets/ec3c7d50-d580-4443-9076-f41f11f128f7" />
+
+<img width="497" height="1015" alt="03-schemas" src="https://github.com/user-attachments/assets/3fb4ab87-ffd7-4fc3-8401-acb05ec7e35a" />
+
+<img width="617" height="117" alt="01-normalized-table" src="https://github.com/user-attachments/assets/da974a8a-3256-4210-a885-a499187fb1d1" />
+
+<img width="310" height="95" alt="02-normalized-table-ORDERS" src="https://github.com/user-attachments/assets/6ee08b5e-418c-4d33-ba17-fc35e602dc4f" />
+
+<img width="413" height="116" alt="02-normalized-table-ORDER DETAILS" src="https://github.com/user-attachments/assets/fd248441-db6e-4967-a3c3-4ca6a0ab1f0e" />
+
+<img width="206" height="97" alt="03-normalized-table-CLIENT" src="https://github.com/user-attachments/assets/5c73358c-835a-4b66-8132-e6b9af13132c" />
+
+<img width="210" height="116" alt="03-normalized-table-ORDERS" src="https://github.com/user-attachments/assets/802e9f48-a2fc-4dae-9701-eb246d720ac9" />
+
+<img width="315" height="120" alt="03-normalized-tables-ORDER DETAILS" src="https://github.com/user-attachments/assets/26eb6a20-4b45-45c9-b641-6324fe1ec285" />
